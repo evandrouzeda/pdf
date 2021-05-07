@@ -1,4 +1,5 @@
 # programa limitado para dividir pdf
+# https://realpython.com/pdf-python/
 
 from PyPDF2 import PdfFileReader, PdfFileWriter
 
